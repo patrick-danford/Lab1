@@ -29,4 +29,4 @@ def bear_room():
 
         if choice == "take honey":
             dead("The bear slaps your face off.")
-        elif choice == "taunt bear" and bear_moved
+        elif choice == "taunt bear" and bear_moved:
